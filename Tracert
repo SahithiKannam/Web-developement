@@ -1,2 +1,5 @@
 For Windows:
 1. Open cmd
+2. Type Tracert google.com and run
+3. Put the IP adress that you get in step2 in Chrome
+4. It open google.com
