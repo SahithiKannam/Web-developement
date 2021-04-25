@@ -10,4 +10,7 @@ JQuery - a library that allowed javascript to be written in a simple clean way
 
 First web page created by Tim Berners Lee - http://info.cern.ch/hypertext/WWW/TheProject.html
 
+Html - install sublime text 3 for writing html code.
+     - in the bottom right corner, change "no text" to "html" and start writing <html> and it will detect code
+
 
