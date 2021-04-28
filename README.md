@@ -14,5 +14,11 @@ Html - install sublime text 3 for writing html code.
      - in the bottom right corner, change "no text" to "html" and start writing <html> and it will detect code
    
 https://www.w3schools.com/html/ 
+https://www.w3schools.com/html/exercise.asp
+HTML Exercise free resource: https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/
 
+https://css-tricks.com/almanac/
+
+Website unsplash for high quality images.
+For CSS, tag order matters.
 

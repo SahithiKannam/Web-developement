@@ -1,0 +1,49 @@
+/*Selector {
+    Property: value;
+}*/
+
+* {
+    text-align: right;
+}
+
+body {
+    background-image: url(img1.jpg);
+    background-size: cover;
+}
+
+/*h2 p {}*/
+/*h2 > p {} - paragraphs that are parent of h2*/
+/*h2 + p {} - select any p element that is exactly after an h2 element*/
+h2 + p :hover {
+    color: #AA4139;
+    text-align: center; /*if this is commented, then everything 
+    **will be alligned to the right because of the * section on the top*/
+    /*border: 5px solid purple;*/
+    border: 5px solid rgb(255, 176, 170);
+    cursor: pointer;
+}
+
+p {
+    color: black;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+.webtext {
+    border: 5px dashed green;
+}
+
+.active {
+    color: red;
+}
+
+#div1 {
+    background: rgba(0, 0, 255, 0.2);
+}
+
+#div2 {
+    background: rgba(0, 255, 0, 0.2);
+}
