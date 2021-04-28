@@ -20,5 +20,10 @@ HTML Exercise free resource: https://www.freecodecamp.org/learn/responsive-web-d
 https://css-tricks.com/almanac/
 
 Website unsplash for high quality images.
+
 For CSS, tag order matters.
+
+Topics covered in CSS ->
+![image](https://user-images.githubusercontent.com/49164733/116448679-ad6ba200-a859-11eb-9f16-26f894cef70a.png)
+
 
