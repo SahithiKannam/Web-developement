@@ -38,3 +38,5 @@ https://fonts.google.com/
 https://www.w3schools.com/css/exercise.asp
 
 https://zero-to-mastery.github.io/resources/
+
+https://www.cleancss.com/css-minify/
