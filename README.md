@@ -10,6 +10,8 @@ JQuery - a library that allowed javascript to be written in a simple clean way
 
 First web page created by Tim Berners Lee - http://info.cern.ch/hypertext/WWW/TheProject.html
 
+----------------------------HTML-------------------------
+
 Html - install sublime text 3 for writing html code.
      - in the bottom right corner, change "no text" to "html" and start writing <html> and it will detect code
    
@@ -17,6 +19,7 @@ https://www.w3schools.com/html/
 https://www.w3schools.com/html/exercise.asp
 HTML Exercise free resource: https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/
 
+---------------------------CSS-----------------------
 https://css-tricks.com/almanac/
 
 Website unsplash for high quality images.
@@ -26,4 +29,12 @@ For CSS, tag order matters.
 Topics covered in CSS ->
 ![image](https://user-images.githubusercontent.com/49164733/116448679-ad6ba200-a859-11eb-9f16-26f894cef70a.png)
 
+Specificity Calculator - specificity.keegan.st
 
+https://css-diner.netlify.app/#
+
+https://fonts.google.com/
+
+https://www.w3schools.com/css/exercise.asp
+
+https://zero-to-mastery.github.io/resources/

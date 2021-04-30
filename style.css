@@ -14,17 +14,33 @@ body {
 /*h2 p {}*/
 /*h2 > p {} - paragraphs that are parent of h2*/
 /*h2 + p {} - select any p element that is exactly after an h2 element*/
-h2 + p :hover {
+ p {
     color: #AA4139;
     text-align: center; /*if this is commented, then everything 
     **will be alligned to the right because of the * section on the top*/
     /*border: 5px solid purple;*/
-    border: 5px solid rgb(255, 176, 170);
+   
     cursor: pointer;
 }
 
 p {
     color: black;
+    /*text-decoration: line-through;
+    text-transform: uppercase;*/
+    line-height: 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 110%;
+    font-family: 'Josefin Slab', serif; /*change times to cursive on any computer who do not have times*/
+}
+
+img {
+    float: right;
+}
+
+footer {
+    clear: both;
+    text-align: center;
 }
 
 li {
@@ -32,7 +48,7 @@ li {
     display: inline-block;
 }
 
-.webtext {
+.webtext:first-child{
     border: 5px dashed green;
 }
 
