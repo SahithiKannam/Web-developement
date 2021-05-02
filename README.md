@@ -40,3 +40,22 @@ https://www.w3schools.com/css/exercise.asp
 https://zero-to-mastery.github.io/resources/
 
 https://www.cleancss.com/css-minify/
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+http://flexboxfroggy.com/
+
+https://darekkay.com/flexbox-cheatsheet/
+
+CSS 3 is latest evolution of CSS.
+
+https://www.w3schools.com/cssref/css3_browsersupport.asp
+https://caniuse.com/
+http://shouldiprefix.com/
+https://autoprefixer.github.io/
+
+https://thoughtbot.com/blog/transitions-and-transforms
+
+https://codepen.io/
+
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/
