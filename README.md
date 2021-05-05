@@ -59,3 +59,16 @@ https://thoughtbot.com/blog/transitions-and-transforms
 https://codepen.io/
 
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/
+
+------------------------Bootstrap-------------------------
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
+Bootstrap download - CSS and JS
+https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
+
+https://zerotomastery.io/resources/
+
+Metatag: developed mobile first
+https://www.w3schools.com/tags/tag_meta.asp
+https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag
+https://www.quora.com/What-is-UTF8 - encoding to write text
+https://css-tricks.com/perfect-full-page-background-image/ - to have full background image
