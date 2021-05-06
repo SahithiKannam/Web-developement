@@ -72,3 +72,13 @@ https://www.w3schools.com/tags/tag_meta.asp
 https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag
 https://www.quora.com/What-is-UTF8 - encoding to write text
 https://css-tricks.com/perfect-full-page-background-image/ - to have full background image
+
+https://mailchimp.com/en/help/add-a-signup-form-to-your-website/
+https://mailchimp.com/help/create-a-landing-page/
+
+https://www.creative-tim.com/#_=_
+http://www.mashup-template.com/templates.html
+https://cruip.com/
+https://mdbootstrap.com/freebies/
+https://startbootstrap.com/templates
+https://github.com/zero-to-mastery/Coding_Challenge-8
